@@ -1,0 +1,13 @@
+.main{
+    display:flex;
+    flex-wrap: wrap;
+}
+
+.card{
+    width:300px;
+    height:100px;
+    border:2px solid lightslategrey;
+    box-sizing: border-box;
+    float:left;
+}
+
